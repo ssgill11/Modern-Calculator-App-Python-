@@ -1,6 +1,5 @@
 # 🧮 Modern Calculator App (Python)
-<img width="405" height="543" alt="Calculator" src="https://github.com/user-attachments/assets/b9b587e4-5456-4b71-bafb-c8f6c6ab4f1c" />
-
+## 📌 Overview
 
 A clean and responsive desktop calculator built using **Python** and **Tkinter**, featuring a modern UI with perfectly aligned buttons and smooth interaction.
 
