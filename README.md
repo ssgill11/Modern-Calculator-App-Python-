@@ -1,4 +1,4 @@
-# 🧮 Modern Calculator App (Python)
+# 🧮 Calculator App (Python)
 ## 📌 Overview
 
 A clean and responsive desktop calculator built using **Python** and **Tkinter**, featuring a modern UI with perfectly aligned buttons and smooth interaction.
