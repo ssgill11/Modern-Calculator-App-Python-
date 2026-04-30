@@ -22,6 +22,11 @@ A clean and responsive desktop calculator built using **Python** and **Tkinter**
 
 ---
 
+## 📸 Preview
+
+<img width="405" height="543" alt="Calculator" src="https://github.com/user-attachments/assets/7189fe7b-471f-482a-acb8-fcbb1846cda8" />
+
+---
 ## 📂 Project Structure
 
 ```
